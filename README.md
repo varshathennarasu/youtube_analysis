@@ -51,16 +51,16 @@ This project uses a Kaggle dataset containing statistics on daily trending YouTu
 5. **Reporting**:
    - Insights and reports are created using Amazon QuickSight, providing a visual representation of video performance and trends.
 
-## How This Project Demonstrates My Data Engineering Skills
+## What I Learned
 
 1. **Cloud Data Engineering**:
-   - The project showcases my ability to design and implement scalable, cloud-based data pipelines using AWS services like S3, Lambda, Glue, and Athena.
+   - This project allowed to me learn how to design and implement scalable, cloud-based data pipelines using AWS services like S3, Lambda, Glue, and Athena.
    
 2. **ETL Process & Automation**:
    - I automated the ETL pipeline using AWS Glue and Lambda functions to transform and process raw data, ensuring an efficient workflow.
    
 3. **SQL Querying & Data Analysis**:
-   - Using AWS Athena, I demonstrated my ability to write SQL queries to analyze large datasets stored in S3, enabling real-time data insights.
+   - Using AWS Athena, I learned how to write SQL queries to analyze large datasets stored in S3, enabling real-time data insights.
    
 4. **Python Scripting**:
    - Python is used throughout the project for automation, data processing, and integration with AWS services like Lambda and Glue.
